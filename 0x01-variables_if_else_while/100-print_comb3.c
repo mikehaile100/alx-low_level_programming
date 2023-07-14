@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
-*main - prog prints all possible d/t combo of two digits
-*Description: 'prints combo of numbers'
-*return: 0 (success)
+ * main - Entry point
+ * Description: 'prog prints all possible d/t combo of two digits'
+ * return: 0 (success)
 */
 int main(void)
 {
