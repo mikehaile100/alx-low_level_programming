@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- *main - entry point
-*description: 'print numbers of base 16'
-*return: always 0
+*main - entry point
+*Description: 'print numbers of base 16'
+*Return: always 0
 */
 int main(void)
 {
@@ -17,5 +17,6 @@ int main(void)
 	{
 		putchar(m);
 	}
+	putchar('\n');
 	return (0);
 }
