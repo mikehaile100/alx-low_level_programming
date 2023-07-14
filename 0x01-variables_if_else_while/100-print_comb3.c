@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  * Description: 'prog prints all possible d/t combo of two digits'
- * return: 0 (success)
+ * Return: 0 (success)
 */
 int main(void)
 {
